@@ -1,0 +1,7 @@
+.azureml
+.vscode
+.amlignore
+*.amltmp 
+*.amltemp
+*.amlignore
+pythonenv*
